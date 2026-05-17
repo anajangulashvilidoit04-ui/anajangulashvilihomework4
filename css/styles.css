@@ -14,11 +14,9 @@ body {
     background-color: #FFFFFF;
     border-radius: 10px; 
     width: 330px;
-    height: 402px;
     margin: 228px 1182px 142px 408px;
 }
 .card-content {
-    height:242px;
     /* margin: 20px 152px 16px 20px; */
     padding: 20px;
 }
@@ -70,6 +68,6 @@ border-radius: 10px 10px 0px 0px;
 .card-text {
     padding-bottom: 16px;
 }
-.card-info {
+/* .card-info {
     margin: 16px 0px 58px 0px;
-}
+} */
